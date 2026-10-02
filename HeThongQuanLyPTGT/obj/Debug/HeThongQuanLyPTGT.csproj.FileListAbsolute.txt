@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\HeThongQuanLyPTGT\bin\Debug\HeThongQuanLyPTGT.exe
+C:\Users\Administrator\Downloads\HeThongQuanLyPTGT\bin\Debug\HeThongQuanLyPTGT.pdb
+C:\Users\Administrator\Downloads\HeThongQuanLyPTGT\obj\Debug\HeThongQuanLyPTGT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\HeThongQuanLyPTGT\obj\Debug\HeThongQuanLyPTGT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HeThongQuanLyPTGT\obj\Debug\HeThongQuanLyPTGT.exe
+C:\Users\Administrator\Downloads\HeThongQuanLyPTGT\obj\Debug\HeThongQuanLyPTGT.pdb
